@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ankeflanke.github.io/meine-website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ankeflanke.github.io/meine-website/</loc>
+</url>
+<url>
+<loc>https://ankeflanke.github.io/meine-website/datenschutz.html</loc>
+<lastmod>2026-03-04T09:11:00+01:00</lastmod>
+</url>
+<url>
+<loc>https://ankeflanke.github.io/meine-website/hier-ist-ein-erster-beitrag.html</loc>
+<lastmod>2026-05-30T16:00:51+02:00</lastmod>
+</url>
+<url>
+<loc>https://ankeflanke.github.io/meine-website/impressum.html</loc>
+<lastmod>2026-05-30T15:29:08+02:00</lastmod>
+</url>
+<url>
+<loc>https://ankeflanke.github.io/meine-website/ueber-mich.html</loc>
+<lastmod>2026-05-30T15:29:35+02:00</lastmod>
+</url>
+</urlset>
